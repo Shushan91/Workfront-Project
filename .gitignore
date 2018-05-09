@@ -1,0 +1,6 @@
+
+/.idea/
+/workfrontproject.iml
+/target/
+target/generated-sources/
+target/generated-test-sources/
